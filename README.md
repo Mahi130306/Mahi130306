@@ -1,16 +1,29 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 Building out my personal portfolio right now: Tailwind, TypeScript, dark theme, glassmorphism, the whole vibe<br>🧭 Also tinkering with a BFS-based building navigation tool on the side<br>👯 Down to collaborate on open-source projects and tools that actually solve real problems<br>🤝 Trying to level up my system design chops. Want to go beyond "it works" to "it scales"<br>🌱 Currently deep-diving into Next.js and TypeScript, always looking for the next thing to break and fix<br>💬 Hit me up about TypeScript, Tailwind, or Next.js. Happy to nerd out<br>⚡ Fun fact: I've spent 3 hours debugging just to find a missing semicolon staring back at me
 
-<!--
-**Mahi130306/Mahi130306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7ZWckKU89J) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahihh1212) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahi-h-h) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MahiHH212) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahihh.work@gmail.com)
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Mahi130306&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=Mahi130306&theme=default&hide_border=false&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Mahi130306&theme=default&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mahi130306&theme=dark&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Mahi130306&theme=default&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Mahi130306&theme=default&hide_border=false" alt="GitHub Streak" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahi130306&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahi130306&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahi130306&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+</picture>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hi%20there%2C%20I'm%20Mahi%20%F0%9F%91%8B;Full-Stack%20Developer;TypeScript%20%2B%20Next.js%20%2B%20Tailwind" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hi%20there%2C%20I'm%20Mahi%20%F0%9F%91%8B;Not%20related%20to%20Dhoni;Full-Stack%20Developer;TypeScript%20%2B%20Next.js%20%2B%20Tailwind" alt="Typing SVG" /> </p>
 
 # 💫 About Me:
 

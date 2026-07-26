@@ -1,4 +1,5 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hi%20there%2C%20I'm%20Mahi%20%F0%9F%91%8B;Full-Stack%20Developer;TypeScript%20%2B%20Next.js%20%2B%20Tailwind" alt="Typing SVG" /> </p>
+
 # 💫 About Me:
 
 🔭 Building out my personal portfolio right now: Tailwind, TypeScript, dark theme, glassmorphism, the whole vibe<br>👯 Down to collaborate on open-source projects and tools that actually solve real problems<br>🤝 Trying to level up my system design chops. Want to go beyond "it works" to "it scales"<br>🌱 Currently deep-diving into Next.js and TypeScript, always looking for the next thing to break and fix<br>💬 Hit me up about TypeScript, Tailwind, or Next.js. Happy to nerd out<br>⚡ Fun fact: I've spent 3 hours debugging just to find a missing semicolon staring back at me
